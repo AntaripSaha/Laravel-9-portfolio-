@@ -69,17 +69,18 @@
 							<div class="main_title text-left">
 								<h2>Jobs</h2>
 									<div class="portfolio_right_text mt-30">
-										<h3 class="text-uppercase">jr. software developer</h3>
+										<h3 class="text">Jr. Software Developer</h3>
 										<ul class="list">
 											<li><span>Company</span>: Zaman IT</li>
-											<li><span>Status</span>:Sep 2021, Present</li>
+											<li><span>Status</span>: Sep 2021, Present</li>
 										</ul>
 									</div>
+								
 									<div class="portfolio_right_text mt-30">
-										<h3 class="text-uppercase">jr. software developer</h3>
+										<h3 class="text">Jr. Software Developer</h3>
 										<ul class="list">
-											<li><span>Company</span>: Zaman IT</li>
-											<li><span>Status</span>:Sep 2021, Present</li>
+											<li><span>Company</span>: Micro Asia Ltd.</li>
+											<li><span>Status</span>: Nov 2020, Feb 2021</li>
 										</ul>
 									</div>
 							</div>
@@ -88,21 +89,28 @@
 						<div class="main_title text-left">
 							<h2>Education</h2>
 								<div class="portfolio_right_text mt-30">
-									<h3 class="text-uppercase">jr. software developer</h3>
+									<h3 class="text">B.Sc in CSE</h3>
 									<ul class="list">
-										<li><span>Company</span>: Zaman IT</li>
-										<li><span>Status</span>:Sep 2021, Present</li>
+										<li><span>Instituation</span>: Bangladesh Army University of Engineering & Technology</li>
+										<li><span>Duration</span>: 2016 - 2019</li>
 									</ul>
 								</div>
 								<div class="portfolio_right_text mt-30">
-									<h3 class="text-uppercase">jr. software developer</h3>
+									<h3 class="text">HSC in Science</h3>
 									<ul class="list">
-										<li><span>Company</span>: Zaman IT</li>
-										<li><span>Status</span>:Sep 2021, Present</li>
+										<li><span>Instituation</span>: Rajshahi Government City College</li>
+										<li><span>Duration</span>: 2012 - 2014</li>
+									</ul>
+								</div>
+								<div class="portfolio_right_text mt-30">
+									<h3 class="text">SSC in Science</h3>
+									<ul class="list">
+										<li><span>Instituation</span>: Rajshahi B. B. Hindu Academy</li>
+										<li><span>Duration</span>: 2010 - 2012</li>
 									</ul>
 								</div>
 						</div>
-						<a class="primary_btn" href="#" style="margin-left:40%; margin-top:40px"><span>Download CV</span></a>
+						<a class="primary_btn" href="{{url($main->resume)}}" style="margin-left:40%; margin-top:40px"><span>Download CV</span></a>
 	
 	
 					</div>
