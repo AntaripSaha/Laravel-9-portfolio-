@@ -22,9 +22,6 @@ Auth::routes();
 
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('laravel_home');
 
-Route::get('/laravel', function () {
-    return view('welcome');
-});
 
 Route::controller(HomeController::class)->group(function(){
 
