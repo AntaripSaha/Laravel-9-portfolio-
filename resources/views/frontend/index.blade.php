@@ -45,13 +45,12 @@
 								Introduce about <br>
 								myself</h2>
 							<p>
-								Whose given. Were gathered. There first subdue greater. Bearing you Whales heaven 
-								midst their. Beast creepeth. Fish days.
+								 I'm a computer Engineer. Completed BS.c In Engineering on Computer Science & Engineering(CSE). 
 							</p>
 							<p>
-								Is give may shall likeness made yielding spirit a itself together created after sea 
-								is in beast beginning signs open god you're gathering whose gathered cattle let. 
-								Creature whales fruit unto meat the life beginning all in under give two.
+							Currently Working on <a href="https://zaman-it.com/" target="_blank">ZamanIT</a> , Software Farm in Uttara Dhaka as a Junior Software Developer. Contributed in many existing projects. Started with 
+							a Thesis Submitted website For RUET(Rajshahi University of Engineering & Technology) Civil Department's.
+							Also Developed 2 Portfolio projects for a Company of my own. All the projects are Live.
 							</p>
 						</div>
 					</div>
@@ -135,32 +134,18 @@
 					</div>
 				</div>
 				<div class="row feature_inner">
-					<div class="col-lg-3 col-md-6">
-						<div class="feature_item">
-							<img src="{{asset('frontend/img/services/s1.png')}}" alt="">
-							<h4>Wp developing</h4>
-							<p>Creeping for female light years that lesser can't evening heaven isn't bearing tree</p>
-						</div>
-					</div>
-					<div class="col-lg-3 col-md-6">
-						<div class="feature_item">
-							<img src="{{asset('frontend/img/services/s2.png')}}" alt="">
-							<h4>UI/ux design</h4>
-							<p>Creeping for female light years that lesser can't evening heaven isn't bearing tree</p>
-						</div>
-					</div>
-					<div class="col-lg-3 col-md-6">
+					<div class="col-lg-6 col-md-6">
 						<div class="feature_item">
 							<img src="{{asset('frontend/img/services/s3.png')}}" alt="">
-							<h4>Web design</h4>
-							<p>Creeping for female light years that lesser can't evening heaven isn't bearing tree</p>
+							<h4>Complete Web Development</h4>
+							<p>Create Projects on Laravel Platform</p>
 						</div>
 					</div>
-					<div class="col-lg-3 col-md-6">
+					<div class="col-lg-6 col-md-6">
 						<div class="feature_item">
 							<img src="{{asset('frontend/img/services/s4.png')}}" alt="">
-							<h4>seo optimize</h4>
-							<p>Creeping for female light years that lesser can't evening heaven isn't bearing tree</p>
+							<h4>Existing Projects Support</h4>
+							<p>Can Handel Laravel Framework Based Projects.</p>
 						</div>
 					</div>
 				</div>
@@ -182,29 +167,29 @@
 				<div class="filters portfolio-filter">
 					<ul>
 						<li class="active" data-filter="*">all</li>
-						<li data-filter=".popular">popular</li>
-						<li data-filter=".latest"> latest</li>
-						<li data-filter=".following">following</li>
+						<li data-filter=".inventory">Inventory</li>
+						<li data-filter=".portfolio"> Portfolio</li>
+						<li data-filter=".sms">SMS Marketing</li>
 						<li data-filter=".upcoming">upcoming</li>
 					</ul>
 				</div>
 		
 				<div class="filters-content">
 					<div class="row portfolio-grid justify-content-center">
-						<div class="col-lg-4 col-md-6 all latest">
+						<div class="col-lg-4 col-md-6 all inventory">
 							<div class="portfolio_box">
 								<div class="single_portfolio">
-									<img class="img-fluid w-100" src="{{asset('frontend/img/portfolio/p1.jpg')}}" alt="">
+									<img class="img-fluid w-100" src="{{asset('frontend/img/portfolio/sharif_metal/sharifmetalbd.png')}}" alt="">
 									<div class="overlay"></div>
-									<a href="{{asset('frontend/img/portfolio/p1.jpg')}}" class="img-gal">
+									<a href="{{asset('frontend/img/portfolio/sharif_metal/sharifmetalbd.png')}}" class="img-gal">
 										<div class="icon">
 											<span class="lnr lnr-cross"></span>
 										</div>
 									</a>
 								</div>
 								<div class="short_info">
-									<h4><a href="portfolio-details.html">minimal design</a></h4>
-									<p>Animated, portfolio</p>
+									<h4><a href="portfolio-details.html">Sharif Metal</a></h4>
+									<p>Large Scale Inventory Management</p>
 								</div>
 							</div>
 						</div>
